@@ -1,4 +1,9 @@
-#Seizure Detection Using EEG Signals: Deep Learning and Machine Learning Approaches
+#Seizure Detection Using EEG Signals: 
+
+Deep Learning and Machine Learning Approaches
+
+
+
 #Project Overview
 The project involves developing and evaluating a seizure detection system by analyzing EEG (electroencephalogram) signals using various deep learning and machine learning algorithms. The system is designed to accurately classify seizure events and distinguish them from non-seizure periods.
 
