@@ -1,20 +1,20 @@
-#Seizure Detection Using EEG Signals: 
+# Seizure Detection Using EEG Signals: 
 
 Deep Learning and Machine Learning Approaches
 
 
 
-#Project Overview
+## Project Overview
 The project involves developing and evaluating a seizure detection system by analyzing EEG (electroencephalogram) signals using various deep learning and machine learning algorithms. The system is designed to accurately classify seizure events and distinguish them from non-seizure periods.
 
-#Key Components
+## Key Components
 Data and Preprocessing:
 
 #Dataset: Utilized a dataset comprising 11,500 EEG signal samples, each with 178 features. This dataset is essential for training and testing the models.
 Preprocessing: Performed initial data cleaning and preprocessing, including noise reduction and feature scaling, to ensure the quality of the input data for the models.
 Model Development:
 
-#Deep Learning Models:
+## Deep Learning Models:
 
 Convolutional Neural Networks (CNN): Implemented CNNs to capture spatial hierarchies in EEG data.
 AlexNet: Adapted AlexNet, a well-known deep learning architecture, for EEG signal classification.
